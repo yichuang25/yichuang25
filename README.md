@@ -7,7 +7,7 @@
 - 🖥 Data Scientist
 - 🖥 Software Developer
 
-[![My GitHub Status](https://github-readme-stats.vercel.app/api?username=yichuang25)]()
+[![My GitHub Status](https://github-readme-stats.vercel.app/api?username=yichuang25&show_icons=true&theme=radical)]()
 
 <!--
 **yhuang86/yhuang86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

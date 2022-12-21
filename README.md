@@ -14,7 +14,7 @@
 ### Languages Usage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yichuang25&theme=dark&langs_count=6&hide=html)](https://github.com/yichuang25/github-readme-stats)
 ### Recent
-[![Yichen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yichuang)](https://github.com/anuraghazra/github-readme-stats)
+[![Yichen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yichuang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yhuang86/yhuang86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

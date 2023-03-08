@@ -3,10 +3,12 @@
 
 ## A Little Bit About Myself
 
+- 🔭 Intern @ United Nations 🇺🇳
 - 🎓 MS in Data Science (Columbia University)
 - 🎓 BS in Computer Science (The University of Alabama)
 - 🖥 Data Scientist
 - 🖥 Software Developer
+- 📫 yichen.huang@columbia.edu
 
 ## Statistics 📈
 ### GitHub Status

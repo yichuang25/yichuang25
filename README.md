@@ -2,7 +2,8 @@
 
 <div align="left">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/yichuang25?style=social">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yichuang25?style=for-the-badge">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yichuang25?style=flat">
+    <img alt="GitHub Hit" src="https://komarev.com/ghpvc/?username=yichuang25">
 
 
 </div>

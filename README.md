@@ -11,6 +11,7 @@
 
 ## A Little Bit About Myself
 
+- 🔭 Software Engineer @ Origence
 - 🔭 Ex-Intern @ United Nations
 - 🎓 MS in Data Science (Columbia University)
 - 🎓 BS in Computer Science (The University of Alabama)
